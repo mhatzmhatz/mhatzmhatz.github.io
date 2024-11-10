@@ -1,0 +1,33 @@
+body
+{
+    background-color: #e5d2b8;
+}
+
+h1
+{
+    background-color: #809671;
+    text-align: center;
+    font-family: "Afacad Flux";
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 50px;
+    color: #725c3a;
+}
+
+p
+{
+    font-family: "Afacad Flux";
+    font-size: 20px;
+}
+
+.odd
+{
+    color: #725c3a;
+    background-color: #809671
+}
+
+.even
+{
+    color: #725c3a;
+    background-color: #e5e0d8;
+}
