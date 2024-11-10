@@ -1,0 +1,24 @@
+body 
+{
+    background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 
+{
+    background:linear-gradient(to right, #c29c6b, #606762);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: beige;
+}
+
+p 
+{
+    background:linear-gradient(to left, #c29c6b, #606762);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: beige;
+}
